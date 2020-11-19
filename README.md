@@ -1,1 +1,2 @@
-# curly-umbrella
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
